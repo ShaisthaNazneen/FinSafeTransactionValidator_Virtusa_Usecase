@@ -162,7 +162,7 @@ Last 5 Transactions:
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 Shaistha Nazneen
 
